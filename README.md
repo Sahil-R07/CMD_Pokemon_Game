@@ -1,6 +1,6 @@
-Pokémon Battle Simulator
+Pokémon Game
 
-Welcome to the Pokémon Battle Simulator! This terminal-based game lets you dive into the Pokémon world with interactive features, including battling, catching Pokémon, and using items. Customize your experience with different Pokémon and explore various gameplay options.
+Welcome to the Pokémon Game! This terminal-based game lets you dive into the Pokémon world with interactive features, including battling, catching Pokémon, and using items. Customize your experience with different Pokémon and explore various gameplay options.
 Features
 
     Choose Your Starter Pokémon: Pick from Charmander, Bulbasaur, Squirtle, or Pikachu.
