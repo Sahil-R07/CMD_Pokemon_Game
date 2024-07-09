@@ -1,7 +1,7 @@
 Pokémon Game
 
 Welcome to the Pokémon Game! This terminal-based game lets you dive into the Pokémon world with interactive features, including battling, catching Pokémon, and using items. Customize your experience with different Pokémon and explore various gameplay options.
-Features
+## Features
 
     Choose Your Starter Pokémon: Pick from Charmander, Bulbasaur, Squirtle, or Pikachu.
     Battle Gary: Test your skills against Gary in thrilling Pokémon battles.
