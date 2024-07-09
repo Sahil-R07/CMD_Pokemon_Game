@@ -9,3 +9,5 @@ Features
     Use Items: Manage your inventory and use items to aid your Pokémon.
     Save and Load Game: Save your progress and resume from where you left off.
     Interactive Battles: Engage in battles with a dynamic turn-based system and move effects.
+    
+### For full code please mail me to : githubspam07@gmail.com
